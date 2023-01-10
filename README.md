@@ -6,7 +6,7 @@ Python Programmer and Ethical Hacker
 
 👋 Hi, I'm Avek 👀 I’m interested in Black Hat 🌱 I’m currently learning Python - JavaScript and Php 📫 People Hate When You Success 😈 
 
-* 🌍  I'm based in Thane,Maharashtra
+* 🌍  I'm based in Mumbai,Maharashtra
 * 🖥️  See my portfolio at [Website](https://codeax1.herokuapp.com/)
 * ✉️  You can contact me at [workforavek@gmail.com](mailto:workforavek@gmail.com)
 * 🚀  I'm currently working on [Course site](https://coursecodeax.herokuapp.com)
@@ -15,6 +15,16 @@ Python Programmer and Ethical Hacker
 * ⚡  working on youtube video
 
 ### Skills
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+
+
+
+
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
