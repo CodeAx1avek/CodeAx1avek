@@ -11,7 +11,7 @@ Python Programmer and Ethical Hacker
 * 🌍  I'm based in Mumbai,Maharashtra
 * 🖥️  See my portfolio at [Website](https://codeax1.herokuapp.com/)
 * ✉️  You can contact me at [workforavek@gmail.com](mailto:workforavek@gmail.com)
-* 🚀  I'm currently working on [Course site](https://coursecodeax.herokuapp.com)
+* 🚀  I'm currently working on [Course site](https://codeax1avek.github.io/portfolio/)
 * 🧠  I'm learning Database Management
 * 🤝  I'm open to collaborating on Python Scripting
 * ⚡  working on youtube video
