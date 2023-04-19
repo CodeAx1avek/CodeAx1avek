@@ -6,7 +6,7 @@ Hi 👋 My name is Avek
 Python Programmer and Ethical Hacker
 ------------------------------------
 
-👋 Hi, I'm Avek 👀 I’m interested in Black Hat 🌱 I’m currently learning Python - JavaScript and Php 📫 People Hate When You Success 😈 
+👋 Hi, I'm Avek 👀 I’m interested in CyerSecurity and Backend Engineering 🌱 I’m currently learning Python and Core Java 📫 People Hate When You Success 😈 
 
 * 🌍  I'm based in Mumbai,Maharashtra
 * 🖥️  See my portfolio at [Website](https://codeax1avek.github.io/portfolio/)
