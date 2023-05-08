@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&weight=600&size=21&pause=1000&color=45F761&center=true&multiline=true&width=435&lines=Python+Programmer)](https://git.io/typing-svg)
 
-<p align="center"><a href="https://github.com/CodeAx1avek">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeAx1avek&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/codeax1avek"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAx1avek&layout=compact&theme=react&hide_border=true" />
+![CodeAax1's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeax1avek&show_icons=true&theme=transparent)
 </a></p>
 
 Hi 👋 My name is Avek
