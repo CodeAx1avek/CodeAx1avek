@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&weight=600&size=21&pause=1000&color=45F761&center=true&multiline=true&width=435&lines=Python+Programmer)](https://git.io/typing-svg)
-
-![CodeAax1's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeax1avek&show_icons=true&theme=transparent)
-</a></p>
+>
 
 Hi 👋 My name is Avek
 =====================
