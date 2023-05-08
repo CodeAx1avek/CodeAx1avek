@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&weight=600&size=30&pause=1000&color=45F761&center=false&multiline=true&width=435&lines=Python+Programmer | Scripter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&weight=600&size=30&pause=1000&color=45F761&center=false&multiline=true&width=435&lines=Python+Programmer+|+Scripter)](https://git.io/typing-svg)
 >
 
 Hi 👋 My name is Avek
