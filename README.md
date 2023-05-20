@@ -10,7 +10,7 @@ Python Programmer and Ethical Hacker
 👋 Hi, I'm Avek 👀 I’m interested in CyerSecurity and Backend Engineering 🌱 I’m currently learning Python and Core Java 📫 People Hate When You Success 😈 
 
 * 🌍  I'm based in Mumbai,Maharashtra
-* 🖥️  See my portfolio at [Website](https://codeax1avek.github.io/portfolio/)
+* 🖥️  See my portfolio at [Website] Currently on Progress...
 * ✉️  You can contact me at [Mail](mailto:intcrypt612@proton.me)
 * 🚀  I'm currently working on [E-commerce site](https://codeax1avek.github.io/E-commerce)
 * 🧠  I'm learning Database Management
