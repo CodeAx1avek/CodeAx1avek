@@ -12,7 +12,7 @@ Python Programmer and Ethical Hacker
 * 🌍  I'm based in Mumbai,Maharashtra
 * 🖥️  See my portfolio at [Website](https://codeax1avek.github.io/portfolio/)
 * ✉️  You can contact me at [Mail](mailto:intcrypt612@proton.me)
-* 🚀  I'm currently working on [E-commerce site](https://codeax1avek.github.io/E-commerce)
+* 🚀  I'm currently working on [E-commerce site](https://sachin111.pythonanywhere.com)
 * 🧠  I'm learning Database Management
 * 🤝  I'm open to collaborating on Python Scripting
 * ⚡  working on youtube video
