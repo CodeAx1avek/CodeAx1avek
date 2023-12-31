@@ -51,8 +51,18 @@ This is Codeax1
 
 <p align="left"> <a href="https://www.github.com/CodeAx1avek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/codeax1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/CodeAx4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/codeax10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
+<h2 align="left">🔥   My Stats :</h2>
 
-###Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CodeAx1avek&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&order=3" height="250" alt="streak graph"  />
+
+
+<h2 align="left"> ✍️ Random Dev Quote :</h2>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
 
 ![CodeAx1avek GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeAx1avek&show_icons=true&theme=radical)
 
