@@ -1,12 +1,12 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQFF6GQ2Uc0AsQ/profile-displaybackgroundimage-shrink_350_1400/0/1698778297554?e=1709769600&v=beta&t=DjtrYs6ZjtLBvH3iHq38v1BiIlgEXKZ3mqY4PGCTVoI" alt="Hello world">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bodoni&weight=500&size=25&pause=1000&color=45F761&center=false&multiline=true&width=435&lines=Python+Programmer+|+Scripter)](https://git.io/typing-svg)
->
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/CodeAx1avek/count.svg" />
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bodoni&weight=500&size=25&pause=1000&color=45F761&center=false&multiline=true&width=435&lines=Python+Programmer+|+Scripter)](https://git.io/typing-svg)
+>
 
 Hi 👋 My name is Avek
 =====================
