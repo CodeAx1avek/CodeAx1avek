@@ -1,5 +1,4 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/CodeAxAvek.png" alt="TryHackMe">
-<script src="https://tryhackme.com/badge/1212754"></script>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/CodeAx1avek/count.svg" />
