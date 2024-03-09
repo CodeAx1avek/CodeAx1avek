@@ -1,5 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQFF6GQ2Uc0AsQ/profile-displaybackgroundimage-shrink_350_1400/0/1698778297554?e=1709769600&v=beta&t=DjtrYs6ZjtLBvH3iHq38v1BiIlgEXKZ3mqY4PGCTVoI" alt="Hello world">
-
+<script src="https://tryhackme.com/badge/1212754"></script>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/CodeAx1avek/count.svg" />
