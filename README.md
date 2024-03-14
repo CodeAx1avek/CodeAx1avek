@@ -65,6 +65,3 @@ This is Codeax1
 ![CodeAx1avek GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeAx1avek&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAx1avek&layout=compact)](https://github.com/CodeAx1avek/github-readme-stats)
-
-
-![Snake animation](https://raw.githubusercontent.com/CodeAx1avek/CodeAx1avek/output/github-contribution-grid-snake-dark.svg)
