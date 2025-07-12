@@ -1,7 +1,3 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/CodeAx1avek/count.svg" />
-</p>
 
 Hi 👋 My name is Avek
 =====================
